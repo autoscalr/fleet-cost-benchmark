@@ -1,0 +1,37 @@
+{
+  "name": "FleetBenchmark",
+  "description": "Compare cost-effectiveness of AutoScalr to Spot Fleet",
+  "version": "0.0.1",
+  "private": false,
+  "author": "Steve Fox",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": "~6.11",
+    "npm": ">=5.5.1"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+    "express": "~4.16.2",
+    "aws-sdk": "~2.141.0",
+    "bluebird": "~3.5.1",
+    "mathjs": "~3.16.x",
+    "command-line-args": "~4.0.7",
+    "sleep": "~5.1.1"
+  },
+  "devDependencies": {
+    "eslint": "~2.2.0",
+    "istanbul": "~0.4.2",
+    "karma": "~0.13.21",
+    "should": "~8.2.2",
+    "expect": "~1.16.0",
+    "supertest": "~1.2.0",
+    "sinon": "~1.17.4",
+    "babel-eslint": "~7.0.0",
+    "chai": "3.5.x"
+  }
+}

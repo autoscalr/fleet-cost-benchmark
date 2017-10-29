@@ -1,0 +1,76 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: >
+  Run cost comparison of AutoScalr to Spot Fleet
+Parameters:
+  KeyName:
+    Type: AWS::EC2::KeyPair::KeyName
+    Default: amKeyPair
+    Description: Name of an existing EC2 KeyPair to enable SSH access to the ECS instances.
+Mappings:
+  AWSRegionToAMI:
+    us-east-1:
+      AMIID: ami-6869aa05
+    us-east-2:
+      AMIID: ami-f6035893
+    us-west-1:
+      AMIID: ami-31490d51
+    us-west-2:
+      AMIID: ami-7172b611
+    eu-west-1:
+      AMIID: ami-f9dd458a
+    eu-west-2:
+      AMIID: ami-886369ec
+    eu-central-1:
+      AMIID: ami-ea26ce85
+    ap-northeast-1:
+      AMIID: ami-374db956
+    ap-northeast-2:
+      AMIID: ami-2b408b45
+    ap-southeast-1:
+      AMIID: ami-a59b49c6
+    ap-southeast-2:
+      AMIID: ami-dc361ebf
+    ap-south-1:
+      AMIID: ami-ffbdd790
+    sa-east-1:
+      AMIID: ami-6dd04501
+    ca-central-1:
+      AMIID: ami-730ebd17
+Resources:
+  AutoScalrFleetBenchmark:
+    Type: AWS::S3::Bucket
+  MgrSecurityGroup:
+    Type: "AWS::EC2::SecurityGroup"
+    Properties:
+      GroupDescription: Security Group for AutoScalr Benchmark Manager
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: '80'
+          ToPort: '80'
+          CidrIp: 0.0.0.0/0
+        - IpProtocol: tcp
+          FromPort: '22'
+          ToPort: '22'
+          CidrIp: 0.0.0.0/0
+  AutoScalrFleetBenchmarkMgrInst:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: t2.micro
+      KeyName: !Ref 'KeyName'
+      ImageId: !FindInMap [AWSRegionToAMI, !Ref 'AWS::Region', AMIID]
+      SecurityGroups:
+        - !Ref 'MgrSecurityGroup'
+      UserData:
+        Fn::Base64: !Sub |
+          #!/bin/bash
+          yum -y install git
+          yum -y install nodejs npm --enablerepo=epel
+          wget https://redirector.gvt1.com/edgedl/go/go1.9.2.linux-amd64.tar.gz
+          tar -C /usr/local -xzf go*.gz
+          wget https://releases.hashicorp.com/terraform/0.10.8/terraform_0.10.8_linux_amd64.zip
+          unzip terraform*.zip
+          mv terraform /usr/local/bin
+          sudo -u ec2-user bash -c "cd;git clone https://github.com/concurrencylabs/aws-cost-analysis.git"
+Outputs:
+  S3ResultsBucket:
+    Value: !Ref 'AutoScalrFleetBenchmark'
