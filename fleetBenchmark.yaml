@@ -67,10 +67,12 @@ Resources:
           yum -y install nodejs npm --enablerepo=epel
           wget https://redirector.gvt1.com/edgedl/go/go1.9.2.linux-amd64.tar.gz
           tar -C /usr/local -xzf go*.gz
+          export PATH=$PATH:/usr/local/go/bin
           wget https://releases.hashicorp.com/terraform/0.10.8/terraform_0.10.8_linux_amd64.zip
           unzip terraform*.zip
           mv terraform /usr/local/bin
-          sudo -u ec2-user bash -c "cd;git clone https://github.com/concurrencylabs/aws-cost-analysis.git"
+          sudo -u ec2-user bash -c "cd;git clone https://github.com/autoscalr/fleet-cost-benchmark.git"
+          sudo -u ec2-user bash -c "~/fleet-cost-benchmark/scripts/runBenchmark.sh"
 Outputs:
   S3ResultsBucket:
     Value: !Ref 'AutoScalrFleetBenchmark'
