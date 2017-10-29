@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# put parameters passed into environment
+source ~/testRun.env
 export PATH=$PATH:/usr/local/go/bin
 # load and build the AutoScalr Terraform plugin
 go get github.com/autoscalr/terraform-provider-autoscalr

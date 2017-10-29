@@ -2,6 +2,22 @@ AWSTemplateFormatVersion: '2010-09-09'
 Description: >
   Run cost comparison of AutoScalr to Spot Fleet
 Parameters:
+  InstanceTypes:
+    Type: String
+    Default: m4.large,m4.xlarge,c4.large,c4.xlarge,r4.large,r4.xlarge
+    Description: >
+      Comman delimited EC2 instance types to use in Spot Fleet and AutoScalr
+    Description: Instance types to use in Spot Fleet and AutoScalr
+  TargetVCpuSize:
+    Type: Number
+    Default: 1
+    Description: >
+      Target vCPU size to run both Spot Fleet and AutoScalr at for test
+  TestDuration:
+    Type: Number
+    Default: 1
+    Description: >
+      Hours to run test
   KeyName:
     Type: AWS::EC2::KeyPair::KeyName
     Default: amKeyPair
@@ -71,6 +87,9 @@ Resources:
           wget https://releases.hashicorp.com/terraform/0.10.8/terraform_0.10.8_linux_amd64.zip
           unzip terraform*.zip
           mv terraform /usr/local/bin
+          echo export ASR_TEST_DURATION=${TestDuration} >> /home/ec2-user/testRun.env
+          echo export ASR_TARG_VCPU=${TargetVCpuSize} >> /home/ec2-user/testRun.env
+          echo export ASR_INST_TYPES=${InstanceTypes} >> /home/ec2-user/testRun.env
           sudo -u ec2-user bash -c "cd;git clone https://github.com/autoscalr/fleet-cost-benchmark.git"
           sudo -u ec2-user bash -c "~/fleet-cost-benchmark/scripts/runBenchmark.sh"
 Outputs:
