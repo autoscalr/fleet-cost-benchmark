@@ -2,12 +2,16 @@ AWSTemplateFormatVersion: '2010-09-09'
 Description: >
   Run cost comparison of AutoScalr to Spot Fleet
 Parameters:
+  AutoScalrApiKey:
+    Type: String
+    Default:
+    Description: >
+      AutoScalr api_key value from your account
   InstanceTypes:
     Type: String
     Default: m4.large,m4.xlarge,c4.large,c4.xlarge,r4.large,r4.xlarge
     Description: >
       Comman delimited EC2 instance types to use in Spot Fleet and AutoScalr
-    Description: Instance types to use in Spot Fleet and AutoScalr
   TargetVCpuSize:
     Type: Number
     Default: 1
@@ -89,6 +93,7 @@ Resources:
               wget https://releases.hashicorp.com/terraform/0.10.8/terraform_0.10.8_linux_amd64.zip
               unzip terraform*.zip
               mv terraform /usr/local/bin
+              echo export AUTOSCALR_API_KEY=${AutoScalrApiKey} >> /home/ec2-user/testRun.env
               echo export ASR_TEST_DURATION=${TestDuration} >> /home/ec2-user/testRun.env
               echo export ASR_TARG_VCPU=${TargetVCpuSize} >> /home/ec2-user/testRun.env
               echo export ASR_INST_TYPES=${InstanceTypes} >> /home/ec2-user/testRun.env
