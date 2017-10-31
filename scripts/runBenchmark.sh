@@ -9,6 +9,11 @@ cd ~/go/src/github.com/autoscalr/terraform-provider-autoscalr/
 cd
 mkdir -p ~/terraform/terraform.d/plugins/linux_amd64
 cp ~/go/src/github.com/autoscalr/terraform-provider-autoscalr/terraform-provider-autoscalr ~/terraform/terraform.d/plugins/linux_amd64
+# generate terraform file for two stacks
+node genTFConfig.js
+cd terraform
+terraform init
+terraform apply
 # load aws-cost-analysis tools
 git clone https://github.com/concurrencylabs/aws-cost-analysis.git
 sudo pip install -r aws-cost-analysis/requirements.txt
