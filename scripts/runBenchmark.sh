@@ -15,10 +15,8 @@ npm install
 cd
 node fleet-cost-benchmark/genTFConfig.js
 cd terraform
-sleep 1
-terraform init
-sleep 1
-terraform apply
+/usr/local/bin/terraform init
+/usr/local/bin/terraform apply
 # load aws-cost-analysis tools
 cd
 git clone https://github.com/concurrencylabs/aws-cost-analysis.git
