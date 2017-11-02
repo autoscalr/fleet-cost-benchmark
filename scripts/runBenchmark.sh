@@ -11,11 +11,13 @@ mkdir -p ~/terraform/terraform.d/plugins/linux_amd64
 cp ~/go/src/github.com/autoscalr/terraform-provider-autoscalr/terraform-provider-autoscalr ~/terraform/terraform.d/plugins/linux_amd64
 cd fleet-cost-benchmark
 npm install
-cd
 # generate terraform file for two stacks
+cd
 node fleet-cost-benchmark/genTFConfig.js
 cd terraform
+sleep 1
 terraform init
+sleep 1
 terraform apply
 # load aws-cost-analysis tools
 cd

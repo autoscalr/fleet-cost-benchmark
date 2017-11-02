@@ -108,6 +108,7 @@ Resources:
               'iam:ListEntitiesForPolicy',
               'iam:DetachRolePolicy',
               'iam:ListInstanceProfilesForRole',
+              'iam:PassRole',
               's3:ListBuckets',
               ]
             Resource: '*'
@@ -153,7 +154,7 @@ Resources:
               echo export ASR_INST_TYPES=${InstanceTypes} >> /home/ec2-user/testRun.env
               echo export ASR_TEST_AMI=${TestAmi} >> /home/ec2-user/testRun.env
               sudo -u ec2-user bash -c "cd;git clone https://github.com/autoscalr/fleet-cost-benchmark.git"
-              sudo -u ec2-user bash -c "~/fleet-cost-benchmark/scripts/runBenchmark.sh"
+              sudo -u ec2-user bash -c "~/fleet-cost-benchmark/scripts/runBenchmark.sh > runBenchmark.log 2> runBenchmark.err"
             - {
                 TestAmi: !FindInMap [AWSRegionToAMI, !Ref 'AWS::Region', AMIID]
               }
