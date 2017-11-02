@@ -3,6 +3,18 @@
 var Promise = require('bluebird')
 var fs = require("fs");
 var fsp = Promise.promisifyAll(fs)
+var targVcpu = 1
+var targVcpuEnv = process.env['ASR_TARG_VCPU']
+if (targVcpuEnv && targVcpuEnv > 0) {
+    targVcpu = targVcpuEnv
+}
+var testAMI = process.env['ASR_TEST_AMI']
+var instTypeStr = process.env['ASR_INST_TYPES']
+var instTypes = instTypeStr.split(',')
+if (! instTypes || instTypes.length < 1) {
+    // use deftaul
+    instTypes = ['m4.large']
+}
 
 var fCont = ' provider "aws" { \n'
 fCont += '     region = "us-east-1" \n'
@@ -11,7 +23,7 @@ fCont += ' provider "autoscalr" { \n'
 fCont += ' } \n'
 fCont += ' resource "aws_launch_configuration" "test_lc" { \n'
 fCont += '     name_prefix   = "test-lc-" \n'
-fCont += '     image_id      = "ami-6869aa05" \n'
+fCont += '     image_id      = "' + testAMI + '" \n'
 fCont += '     instance_type = "m3.medium" \n'
 fCont += '     lifecycle { \n'
 fCont += '         create_before_destroy = true \n'
@@ -37,7 +49,7 @@ fCont += '     aws_autoscaling_group_name = "${aws_autoscaling_group.autoscalr_t
 fCont += '     display_name = "Fleet Benchmark" \n'
 fCont += '     scale_mode = "fixed" \n'
 fCont += '     target_capacity = 1 \n'
-fCont += '     instance_types = ["t1.micro","c3.large"] \n'
+fCont += '     instance_types = '+ JSON.stringify(instTypes) + ' \n'
 fCont += '     max_spot_percent_total = 100 \n'
 fCont += '     max_spot_percent_one_market = 100 \n'
 fCont += ' } \n'
@@ -57,15 +69,18 @@ fCont += '     allocation_strategy = "diversified" \n'
 fCont += '     target_capacity     = 1 \n'
 fCont += '     valid_until         = "2019-11-04T20:44:20Z" \n'
 fCont += '     terminate_instances_with_expiration = true \n'
-fCont += '     launch_specification { \n'
-fCont += '         instance_type     = "m3.medium" \n'
-fCont += '         ami               = "ami-6869aa05" \n'
-fCont += '         spot_price        = "0.25" \n'
-fCont += '         weighted_capacity = 1 \n'
-fCont += '         tags              = { \n'
-fCont += '             FleetManager = "SpotFleet" \n'
-fCont += '         } \n'
-fCont += '     } \n'
+// create a launch specification for each instance type
+instTypes.forEach(function(iType) {
+    fCont += '     launch_specification { \n'
+    fCont += '         instance_type     = ' + iType + ' \n'
+    fCont += '         ami               = "' + testAMI + '" \n'
+    fCont += '         spot_price        = "0.25" \n'
+    fCont += '         weighted_capacity = 1 \n'
+    fCont += '         tags              = { \n'
+    fCont += '             FleetManager = "SpotFleet" \n'
+    fCont += '         } \n'
+    fCont += '     } \n'
+})
 fCont += ' } \n'
 
 fsp.writeFileAsync('./terraform/main.tf', fCont)
