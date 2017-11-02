@@ -92,6 +92,7 @@ Resources:
               'ec2:modifySpot*',
               'ec2:cancelSpot*',
               'ec2:AuthorizeSecurityGroupIngress',
+              'ec2:CreateTags',
               'autoscaling:Describe*',
               'autoscaling:CreateAutoScalingGroup',
               'autoscaling:CreateLaunchConfiguration',
@@ -162,3 +163,5 @@ Resources:
 Outputs:
   S3ResultsBucket:
     Value: !Ref 'AutoScalrFleetBenchmarkBucket'
+  FleetBenchmarkMgrInst:
+    Value: !Ref 'AutoScalrFleetBenchmarkMgrInst'
