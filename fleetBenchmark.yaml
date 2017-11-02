@@ -8,7 +8,7 @@ Parameters:
       AutoScalr api_key value from your account
   InstanceTypes:
     Type: String
-    Default: m4.large,m4.xlarge,c4.large,c4.xlarge,r4.large,r4.xlarge
+    Default: m3.medium,m4.large,m4.xlarge,c4.large,c4.xlarge,r4.large,r4.xlarge
     Description: >
       Comman delimited EC2 instance types to use in Spot Fleet and AutoScalr
   TargetVCpuSize:
@@ -93,6 +93,7 @@ Resources:
               'ec2:cancelSpot*',
               'ec2:AuthorizeSecurityGroupIngress',
               'ec2:CreateTags',
+              'ec2:DeleteTags',
               'autoscaling:Describe*',
               'autoscaling:CreateAutoScalingGroup',
               'autoscaling:CreateLaunchConfiguration',
@@ -159,7 +160,6 @@ Resources:
             - {
                 TestAmi: !FindInMap [AWSRegionToAMI, !Ref 'AWS::Region', AMIID]
               }
-
 Outputs:
   S3ResultsBucket:
     Value: !Ref 'AutoScalrFleetBenchmarkBucket'
