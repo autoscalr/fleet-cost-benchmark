@@ -94,6 +94,7 @@ Resources:
               'ec2:AuthorizeSecurityGroupIngress',
               'ec2:CreateTags',
               'ec2:DeleteTags',
+              'tag:*',
               'autoscaling:Describe*',
               'autoscaling:CreateAutoScalingGroup',
               'autoscaling:CreateLaunchConfiguration',
