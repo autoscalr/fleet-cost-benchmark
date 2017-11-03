@@ -9,10 +9,10 @@ cd ~/go/src/github.com/autoscalr/terraform-provider-autoscalr/
 cd
 mkdir -p ~/terraform/terraform.d/plugins/linux_amd64
 cp ~/go/src/github.com/autoscalr/terraform-provider-autoscalr/terraform-provider-autoscalr ~/terraform/terraform.d/plugins/linux_amd64
+# generate terraform file for two stacks
 cd fleet-cost-benchmark
 npm install
-# generate terraform file for two stacks
-cd ~/fleet-cost-benchmark
+export TERRA_WKSP=~/terraform
 node ./genTFConfig.js
 cd ~/terraform
 /usr/local/bin/terraform init
