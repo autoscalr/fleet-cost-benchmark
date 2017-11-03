@@ -9,12 +9,57 @@ if (targVcpuEnv && targVcpuEnv > 0) {
     targVcpu = targVcpuEnv
 }
 var testAMI = process.env['ASR_TEST_AMI']
+
+var instTypes = ['m4.large']
 var instTypeStr = process.env['ASR_INST_TYPES']
-var instTypes = instTypeStr.split(',')
-if (! instTypes || instTypes.length < 1) {
-    // use deftaul
-    instTypes = ['m4.large']
+if (instTypeStr) {
+    instTypes = instTypeStr.split(',')
 }
+var region = 'us-east-1'
+var regionEnv = process.env['AWS_REGION']
+if (regionEnv) {
+    region = regionEnv
+}
+
+var exec = require('child_process').exec;
+
+var vCpuMap = {}
+var priceMap = {}
+
+instTypes.forEach(function(iType) {
+    var runScript = exec('cat data/LinuxOnDemandPrices.csv | grep '+iType+' | grep '+region,
+        (error, stdout, stderr) => {
+            var resp = `${stdout}`
+            var fields = resp.split(',')
+            var price
+            if (fields.length > 3) {
+                price = +fields[3]
+            }
+            //console.log('price:'+price)
+            priceMap[iType] = price
+            if (error !== null) {
+                console.log(`${stderr}`);
+                console.log(`exec error: ${error}`);
+            }
+        })
+    var getVcpu = exec('cat data/LinuxInstanceSpecs.csv | grep '+iType+' | grep '+region,
+        (error, stdout, stderr) => {
+            var resp = `${stdout}`
+            console.log('resp:'+resp)
+            var fields = resp.split(',')
+            var vCpus
+            if (fields.length > 3) {
+                vCpus = +fields[3]
+            }
+            //console.log('vCpus:'+vCpus)
+            vCpuMap[iType] = vCpus
+            if (error !== null) {
+                console.log(`${stderr}`);
+                console.log(`exec error: ${error}`);
+            }
+        })
+})
+
 
 var fCont = ' provider "aws" { \n'
 fCont += '     region = "us-east-1" \n'
@@ -72,10 +117,10 @@ fCont += '     terminate_instances_with_expiration = true \n'
 // create a launch specification for each instance type
 instTypes.forEach(function(iType) {
     fCont += '     launch_specification { \n'
-    fCont += '         instance_type     = ' + iType + ' \n'
+    fCont += '         instance_type     = "' + iType + '" \n'
     fCont += '         ami               = "' + testAMI + '" \n'
-    fCont += '         spot_price        = "0.25" \n'
-    fCont += '         weighted_capacity = 1 \n'
+    fCont += '         spot_price        = ' + priceMap[iType] + ' \n'
+    fCont += '         weighted_capacity = ' + vCpuMap[iType] + ' \n'
     fCont += '         tags              = { \n'
     fCont += '             FleetManager = "SpotFleet" \n'
     fCont += '         } \n'
@@ -83,7 +128,7 @@ instTypes.forEach(function(iType) {
 })
 fCont += ' } \n'
 
-fsp.writeFileAsync('./terraform/main.tf', fCont)
+fsp.writeFileAsync('../terraform/main.tf', fCont)
     .then(function(d) {
         console.log('Terraform file generated')
     })

@@ -12,9 +12,9 @@ cp ~/go/src/github.com/autoscalr/terraform-provider-autoscalr/terraform-provider
 cd fleet-cost-benchmark
 npm install
 # generate terraform file for two stacks
-cd
-node fleet-cost-benchmark/genTFConfig.js
-cd terraform
+cd ~/fleet-cost-benchmark
+node ./genTFConfig.js
+cd ~/terraform
 /usr/local/bin/terraform init
 /usr/local/bin/terraform apply
 # load aws-cost-analysis tools
