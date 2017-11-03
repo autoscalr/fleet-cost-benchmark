@@ -1,0 +1,1838 @@
+sa-east-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+eu-central-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-2,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-southeast-2,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+ap-northeast-2,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+eu-west-1,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+us-east-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-2,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,p2.8xlarge,Linux/UNIX,32,488 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+sa-east-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,hi1.4xlarge,Linux/UNIX,16,60.5 GiB,2.4 GHz,Intel Xeon Family,64-bit
+us-west-2,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-southeast-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-2,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+us-east-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-west-1,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+ap-south-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+ap-southeast-1,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+us-west-2,cc2.8xlarge,Linux/UNIX,32,60.5 GiB,2.6 GHz,Intel Xeon E5-2670,64-bit
+us-east-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-southeast-2,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-2,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-2,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,t2.nano,Linux/UNIX,1,0.5 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+eu-central-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-west-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-2,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-west-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,p2.16xlarge,Linux/UNIX,64,768 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-south-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-east-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-west-2,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-central-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+us-west-2,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+sa-east-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-west-2,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-2,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-east-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-2,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,t2.large,Linux/UNIX,2,8 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-northeast-2,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-2,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-1,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+us-east-1,t1.micro,Linux/UNIX,1,0.613 GiB,undefined,Variable,32-bit or 64-bit
+ap-southeast-2,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+us-west-1,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+ap-south-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+eu-central-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,t2.small,Linux/UNIX,1,2 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+us-east-1,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-2,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-northeast-2,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+eu-west-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+eu-west-1,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+sa-east-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-1,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+ap-northeast-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-2,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-west-2,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-2,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-east-1,p2.8xlarge,Linux/UNIX,32,488 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-central-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+us-east-1,t2.large,Linux/UNIX,2,8 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+us-west-1,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+ap-southeast-2,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-northeast-2,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-1,t1.micro,Linux/UNIX,1,0.613 GiB,undefined,Variable,32-bit or 64-bit
+eu-west-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-east-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-west-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-west-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-east-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-2,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-northeast-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,cr1.8xlarge,Linux/UNIX,32,244 GiB,undefined,Intel Xeon E5-2670,64-bit
+ap-southeast-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-central-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-east-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-southeast-1,t2.xlarge,Linux/UNIX,4,16 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+eu-central-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-south-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-east-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+sa-east-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-2,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-2,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+ap-southeast-2,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+us-west-2,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+eu-west-1,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+eu-west-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+sa-east-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-central-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-2,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-east-1,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-2,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-northeast-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-central-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-2,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-2,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-west-1,p2.16xlarge,Linux/UNIX,64,768 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-south-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-central-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,t2.large,Linux/UNIX,2,8 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-northeast-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-east-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-west-2,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+eu-west-1,hi1.4xlarge,Linux/UNIX,16,60.5 GiB,2.4 GHz,Intel Xeon Family,64-bit
+sa-east-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-2,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+ap-southeast-2,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,t2.small,Linux/UNIX,1,2 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+us-west-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+eu-west-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+eu-central-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-2,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-1,t2.nano,Linux/UNIX,1,0.5 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+sa-east-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-east-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,t2.2xlarge,Linux/UNIX,8,32 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+us-west-2,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-west-2,t2.small,Linux/UNIX,1,2 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-2,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-2,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+us-east-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-2,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,hi1.4xlarge,Linux/UNIX,16,60.5 GiB,2.4 GHz,Intel Xeon Family,64-bit
+ap-south-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-northeast-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,t2.medium,Linux/UNIX,2,4 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-2,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-2,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-west-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-east-1,t2.xlarge,Linux/UNIX,4,16 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-southeast-2,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+eu-central-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-east-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+sa-east-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-west-1,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+us-west-2,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-south-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,t2.nano,Linux/UNIX,1,0.5 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-1,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+ap-northeast-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,t2.micro,Linux/UNIX,1,1 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+eu-central-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,hs1.8xlarge,Linux/UNIX,17,117 GiB,2 GHz,Intel Xeon E5-2650,64-bit
+ap-northeast-2,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-2,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-south-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+eu-central-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+eu-west-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-south-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+sa-east-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-east-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,p2.8xlarge,Linux/UNIX,32,488 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-west-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+us-east-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-2,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-2,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-west-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-central-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,hi1.4xlarge,Linux/UNIX,16,60.5 GiB,2.4 GHz,Intel Xeon Family,64-bit
+us-east-1,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+ap-south-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,t2.small,Linux/UNIX,1,2 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+sa-east-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-2,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-2,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-2,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-west-1,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+eu-west-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-west-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-2,t2.micro,Linux/UNIX,1,1 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-2,t1.micro,Linux/UNIX,1,0.613 GiB,undefined,Variable,32-bit or 64-bit
+ap-northeast-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-east-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-south-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-south-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-2,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-south-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-west-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-south-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-south-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-south-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,cr1.8xlarge,Linux/UNIX,32,244 GiB,undefined,Intel Xeon E5-2670,64-bit
+us-west-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+ap-southeast-2,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-2,t1.micro,Linux/UNIX,1,0.613 GiB,undefined,Variable,32-bit or 64-bit
+us-west-2,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,t2.xlarge,Linux/UNIX,4,16 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+eu-west-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-2,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+eu-central-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-northeast-2,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-2,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-central-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-south-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-2,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+ap-southeast-2,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-2,t2.micro,Linux/UNIX,1,1 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+eu-central-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-east-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+us-west-1,t2.nano,Linux/UNIX,1,0.5 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-1,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+sa-east-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-2,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-central-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-west-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-2,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+ap-south-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-1,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+us-west-2,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+sa-east-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-west-1,p2.16xlarge,Linux/UNIX,64,768 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-central-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-2,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-central-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-south-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+us-east-1,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+ap-southeast-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+us-west-2,t2.medium,Linux/UNIX,2,4 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-south-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-east-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+us-east-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-west-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-east-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+ap-southeast-1,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+sa-east-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-east-1,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+eu-central-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-east-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-south-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-south-1,t2.large,Linux/UNIX,2,8 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+sa-east-1,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-west-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,t2.small,Linux/UNIX,1,2 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+us-east-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-2,t2.xlarge,Linux/UNIX,4,16 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+us-east-1,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+eu-west-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-2,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-central-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-2,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+ap-southeast-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+eu-west-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+ap-northeast-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-central-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-central-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-west-2,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+sa-east-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+sa-east-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-2,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-west-1,hs1.8xlarge,Linux/UNIX,17,117 GiB,2 GHz,Intel Xeon E5-2650,64-bit
+us-west-1,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+ap-south-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-2,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-east-1,p2.16xlarge,Linux/UNIX,64,768 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,p2.xlarge,Linux/UNIX,4,61 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-southeast-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+eu-west-1,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-west-2,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-2,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-south-1,t2.nano,Linux/UNIX,1,0.5 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-west-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-west-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+sa-east-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-west-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-2,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-2,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-west-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,t2.medium,Linux/UNIX,2,4 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-2,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,hi1.4xlarge,Linux/UNIX,16,60.5 GiB,2.4 GHz,Intel Xeon Family,64-bit
+us-east-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-northeast-2,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+sa-east-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-east-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,hs1.8xlarge,Linux/UNIX,17,117 GiB,2 GHz,Intel Xeon E5-2650,64-bit
+ap-southeast-2,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-1,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+us-west-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-west-2,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+sa-east-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-southeast-2,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-south-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-2,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+us-west-2,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+us-east-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-west-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-east-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-south-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-west-2,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,cr1.8xlarge,Linux/UNIX,32,244 GiB,undefined,Intel Xeon E5-2670,64-bit
+us-west-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-west-2,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+ap-northeast-2,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+eu-west-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-central-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+us-east-1,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,p2.xlarge,Linux/UNIX,4,61 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+eu-west-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,t2.nano,Linux/UNIX,1,0.5 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-2,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-south-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-central-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+ap-southeast-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-northeast-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-east-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-central-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-1,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-2,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-west-2,p2.16xlarge,Linux/UNIX,64,768 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-east-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-west-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,p2.8xlarge,Linux/UNIX,32,488 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-2,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,t2.small,Linux/UNIX,1,2 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+eu-west-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-west-2,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-west-1,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+eu-central-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-northeast-1,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+eu-central-1,t2.nano,Linux/UNIX,1,0.5 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+eu-west-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+sa-east-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,t2.micro,Linux/UNIX,1,1 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+us-west-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-west-2,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-west-2,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+sa-east-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+eu-west-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-2,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-2,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,hs1.8xlarge,Linux/UNIX,17,117 GiB,2 GHz,Intel Xeon E5-2650,64-bit
+ap-southeast-2,t2.large,Linux/UNIX,2,8 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-northeast-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-east-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+eu-central-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-southeast-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-central-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-2,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+ap-northeast-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-southeast-2,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+eu-west-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,p2.8xlarge,Linux/UNIX,32,488 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-2,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-2,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-2,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-east-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-west-2,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,t2.xlarge,Linux/UNIX,4,16 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+eu-west-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,t2.medium,Linux/UNIX,2,4 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+eu-west-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+eu-west-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-southeast-2,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+eu-central-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-1,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+sa-east-1,t2.nano,Linux/UNIX,1,0.5 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-2,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+sa-east-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+sa-east-1,t2.medium,Linux/UNIX,2,4 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+sa-east-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-east-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+eu-west-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-southeast-2,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-central-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-2,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,p2.16xlarge,Linux/UNIX,64,768 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-2,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-1,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-west-2,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-2,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-south-1,t2.2xlarge,Linux/UNIX,8,32 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-northeast-2,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-central-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-east-1,cg1.4xlarge,Linux/UNIX,16,22.5 GiB,undefined,Intel Xeon x5570,64-bit
+us-east-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,cr1.8xlarge,Linux/UNIX,32,244 GiB,undefined,Intel Xeon E5-2670,64-bit
+eu-central-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-2,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-2,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+ap-northeast-1,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+us-east-1,p2.16xlarge,Linux/UNIX,64,768 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-west-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+us-west-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,t1.micro,Linux/UNIX,1,0.613 GiB,undefined,Variable,32-bit or 64-bit
+eu-west-1,cc2.8xlarge,Linux/UNIX,32,60.5 GiB,2.6 GHz,Intel Xeon E5-2670,64-bit
+us-west-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-northeast-2,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-2,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+sa-east-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-2,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-2,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-south-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,hs1.8xlarge,Linux/UNIX,17,117 GiB,2 GHz,Intel Xeon E5-2650,64-bit
+ap-southeast-2,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,t2.medium,Linux/UNIX,2,4 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-2,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-east-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-central-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-2,p2.8xlarge,Linux/UNIX,32,488 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-2,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-east-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-west-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-1,cc2.8xlarge,Linux/UNIX,32,60.5 GiB,2.6 GHz,Intel Xeon E5-2670,64-bit
+ap-southeast-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-2,t2.2xlarge,Linux/UNIX,8,32 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-south-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-2,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+us-east-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-northeast-2,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-east-1,cr1.8xlarge,Linux/UNIX,32,244 GiB,undefined,Intel Xeon E5-2670,64-bit
+ap-southeast-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-2,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-east-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-west-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,t2.micro,Linux/UNIX,1,1 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+eu-central-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,t2.nano,Linux/UNIX,1,0.5 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-2,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-central-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,t2.2xlarge,Linux/UNIX,8,32 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+us-west-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-2,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,t2.medium,Linux/UNIX,2,4 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-south-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-central-1,t2.xlarge,Linux/UNIX,4,16 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+sa-east-1,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+us-west-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-central-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-1,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-2,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+eu-west-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-east-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,p2.16xlarge,Linux/UNIX,64,768 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,t2.large,Linux/UNIX,2,8 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-northeast-2,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+eu-central-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+eu-central-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-south-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-northeast-2,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+sa-east-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-northeast-2,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-east-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+us-west-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,hs1.8xlarge,Linux/UNIX,17,117 GiB,2 GHz,Intel Xeon E5-2650,64-bit
+us-west-2,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-west-2,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-2,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,t2.small,Linux/UNIX,1,2 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+eu-central-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-2,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,p2.8xlarge,Linux/UNIX,32,488 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,t2.large,Linux/UNIX,2,8 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-southeast-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-2,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+sa-east-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-south-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+eu-west-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-2,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-northeast-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+sa-east-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+ap-northeast-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-1,t2.micro,Linux/UNIX,1,1 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-south-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-south-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-2,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-west-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-2,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-2,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,t2.small,Linux/UNIX,1,2 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+us-east-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-2,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+sa-east-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,t2.2xlarge,Linux/UNIX,8,32 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+sa-east-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-2,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+eu-west-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+sa-east-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-2,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-west-2,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-south-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-south-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-2,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-south-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,hs1.8xlarge,Linux/UNIX,17,117 GiB,2 GHz,Intel Xeon E5-2650,64-bit
+us-west-2,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-central-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-1,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+ap-northeast-2,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+sa-east-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-south-1,t2.nano,Linux/UNIX,1,0.5 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-south-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,cc2.8xlarge,Linux/UNIX,32,60.5 GiB,2.6 GHz,Intel Xeon E5-2670,64-bit
+eu-central-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-northeast-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+sa-east-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,t2.2xlarge,Linux/UNIX,8,32 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+eu-central-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-west-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-west-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-central-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-2,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-central-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,cc2.8xlarge,Linux/UNIX,32,60.5 GiB,2.6 GHz,Intel Xeon E5-2670,64-bit
+sa-east-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-central-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-south-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-central-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-2,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-2,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-2,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+us-west-2,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-2,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+sa-east-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+sa-east-1,t2.xlarge,Linux/UNIX,4,16 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-south-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-west-1,cr1.8xlarge,Linux/UNIX,32,244 GiB,undefined,Intel Xeon E5-2670,64-bit
+ap-south-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-2,p2.8xlarge,Linux/UNIX,32,488 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-east-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-south-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-2,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+eu-west-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-northeast-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-west-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-east-1,hi1.4xlarge,Linux/UNIX,16,60.5 GiB,2.4 GHz,Intel Xeon Family,64-bit
+ap-south-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-west-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-2,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-2,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-central-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-southeast-2,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-southeast-2,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+sa-east-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+us-west-2,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-south-1,t2.micro,Linux/UNIX,1,1 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-2,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-northeast-2,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-2,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-west-2,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-south-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,t2.small,Linux/UNIX,1,2 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+eu-central-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-east-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-south-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-west-2,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-south-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-2,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-east-1,t2.small,Linux/UNIX,1,2 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-2,t2.medium,Linux/UNIX,2,4 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-2,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-east-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-central-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-south-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,t1.micro,Linux/UNIX,1,0.613 GiB,undefined,Variable,32-bit or 64-bit
+us-east-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+eu-west-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-south-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+sa-east-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+eu-west-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-2,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+ap-southeast-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-south-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-central-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-southeast-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-northeast-2,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-east-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-2,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+eu-central-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-east-1,p2.xlarge,Linux/UNIX,4,61 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-2,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-central-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-west-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,p2.xlarge,Linux/UNIX,4,61 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+eu-west-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,hi1.4xlarge,Linux/UNIX,16,60.5 GiB,2.4 GHz,Intel Xeon Family,64-bit
+ap-southeast-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-central-1,t2.large,Linux/UNIX,2,8 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+us-east-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-central-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-2,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-south-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-central-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-2,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+eu-west-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+ap-northeast-2,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-2,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-central-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+us-west-2,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,t2.micro,Linux/UNIX,1,1 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,t2.nano,Linux/UNIX,1,0.5 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+sa-east-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,t2.small,Linux/UNIX,1,2 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+us-west-2,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,t2.micro,Linux/UNIX,1,1 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+eu-west-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+sa-east-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+us-west-2,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+eu-central-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-2,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-west-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-west-2,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-central-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-2,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-2,hs1.8xlarge,Linux/UNIX,17,117 GiB,2 GHz,Intel Xeon E5-2650,64-bit
+eu-west-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-2,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-2,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-west-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-south-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+eu-central-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-2,hs1.8xlarge,Linux/UNIX,17,117 GiB,2 GHz,Intel Xeon E5-2650,64-bit
+us-west-2,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-southeast-2,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+eu-central-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-2,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,t1.micro,Linux/UNIX,1,0.613 GiB,undefined,Variable,32-bit or 64-bit
+us-west-2,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+eu-west-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-south-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+sa-east-1,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+eu-central-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+eu-central-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-southeast-2,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+ap-northeast-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-2,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,t2.large,Linux/UNIX,2,8 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-northeast-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+us-west-1,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+us-east-1,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+us-west-2,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+ap-northeast-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-east-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-central-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-west-1,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+eu-central-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,t2.medium,Linux/UNIX,2,4 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+eu-west-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-west-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-2,t2.nano,Linux/UNIX,1,0.5 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+us-west-2,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+ap-northeast-2,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,t2.large,Linux/UNIX,2,8 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+us-east-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-south-1,t2.large,Linux/UNIX,2,8 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-northeast-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-east-1,t2.medium,Linux/UNIX,2,4 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-1,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+eu-west-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-south-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-central-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+sa-east-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-central-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-east-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-east-1,cc2.8xlarge,Linux/UNIX,32,60.5 GiB,2.6 GHz,Intel Xeon E5-2670,64-bit
+us-east-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-2,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-west-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-2,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-south-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-2,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+sa-east-1,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+ap-southeast-2,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+ap-south-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,hs1.8xlarge,Linux/UNIX,17,117 GiB,2 GHz,Intel Xeon E5-2650,64-bit
+us-west-2,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-west-1,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+ap-southeast-1,t2.medium,Linux/UNIX,2,4 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-2,t2.small,Linux/UNIX,1,2 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+us-east-1,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+us-east-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+eu-west-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-south-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-2,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,cg1.4xlarge,Linux/UNIX,16,22.5 GiB,undefined,Intel Xeon x5570,64-bit
+ap-northeast-1,t2.micro,Linux/UNIX,1,1 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-2,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-2,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-west-1,t2.xlarge,Linux/UNIX,4,16 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+us-east-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-2,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-2,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-2,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-west-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-west-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-west-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-2,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-west-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-west-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+ap-southeast-2,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+ap-northeast-2,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+us-east-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-west-2,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-east-1,cc2.8xlarge,Linux/UNIX,32,60.5 GiB,2.6 GHz,Intel Xeon E5-2670,64-bit
+eu-west-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-2,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-central-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,p2.xlarge,Linux/UNIX,4,61 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,cg1.4xlarge,Linux/UNIX,16,22.5 GiB,undefined,Intel Xeon x5570,64-bit
+ap-south-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-1,t2.2xlarge,Linux/UNIX,8,32 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-south-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-west-1,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+eu-central-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-2,t2.xlarge,Linux/UNIX,4,16 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-northeast-2,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-2,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-central-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,t2.medium,Linux/UNIX,2,4 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+eu-central-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-central-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+sa-east-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+eu-west-1,cg1.4xlarge,Linux/UNIX,16,22.5 GiB,undefined,Intel Xeon x5570,64-bit
+eu-central-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-south-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-central-1,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-2,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-south-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+sa-east-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+us-west-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-east-1,t2.2xlarge,Linux/UNIX,8,32 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-southeast-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,t2.2xlarge,Linux/UNIX,8,32 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-northeast-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+us-west-1,g2.8xlarge,Linux/UNIX,32,60 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+sa-east-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+eu-west-1,p2.xlarge,Linux/UNIX,4,61 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,cr1.8xlarge,Linux/UNIX,32,244 GiB,undefined,Intel Xeon E5-2670,64-bit
+sa-east-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+eu-west-1,p2.xlarge,Linux/UNIX,4,61 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,t2.2xlarge,Linux/UNIX,8,32 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+eu-central-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+eu-central-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-2,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-east-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-east-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+sa-east-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-1,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+eu-central-1,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-west-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+ap-south-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,m4.16xlarge,Linux/UNIX,64,256 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-west-2,r3.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+eu-west-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-1,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+eu-west-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-northeast-1,r3.large,Linux/UNIX,2,15.25 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-central-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+us-east-1,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-southeast-2,i3.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+us-west-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-west-1,cc2.8xlarge,Linux/UNIX,32,60.5 GiB,2.6 GHz,Intel Xeon E5-2670,64-bit
+ap-south-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-southeast-2,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-south-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-2,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-east-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,t2.micro,Linux/UNIX,1,1 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+sa-east-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,t2.large,Linux/UNIX,2,8 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+us-east-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-northeast-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-1,m1.medium,Linux/UNIX,1,3.75 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-west-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-east-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+sa-east-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-central-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-2,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,p2.16xlarge,Linux/UNIX,64,768 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-east-1,cr1.8xlarge,Linux/UNIX,32,244 GiB,undefined,Intel Xeon E5-2670,64-bit
+us-west-2,p2.xlarge,Linux/UNIX,4,61 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-central-1,d2.4xlarge,Linux/UNIX,16,122 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-east-1,r3.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-southeast-2,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+sa-east-1,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+ap-southeast-2,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+ap-southeast-2,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+ap-southeast-2,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-central-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-east-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-west-1,i2.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-southeast-2,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-2,i2.8xlarge,Linux/UNIX,32,244 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-west-1,r3.2xlarge,Linux/UNIX,8,61 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-2,m2.xlarge,Linux/UNIX,2,17.1 GiB,undefined,Intel Xeon Family,64-bit
+sa-east-1,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-east-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-south-1,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,d2.xlarge,Linux/UNIX,4,30.5 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-southeast-2,t2.xlarge,Linux/UNIX,4,16 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-southeast-2,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+sa-east-1,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+sa-east-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-east-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-south-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-central-1,m3.xlarge,Linux/UNIX,4,15 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-1,hs1.8xlarge,Linux/UNIX,17,117 GiB,2 GHz,Intel Xeon E5-2650,64-bit
+ap-southeast-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-central-1,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+eu-central-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-1,r4.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+sa-east-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-2,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+sa-east-1,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-2,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-northeast-2,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-southeast-2,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-east-1,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+us-west-2,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+sa-east-1,m1.large,Linux/UNIX,2,7.5 GiB,undefined,Intel Xeon Family,64-bit
+us-west-2,i3.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,c3.4xlarge,Linux/UNIX,16,30 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-west-2,m1.xlarge,Linux/UNIX,4,15 GiB,undefined,Intel Xeon Family,64-bit
+eu-central-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-2,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+us-west-1,r4.16xlarge,Linux/UNIX,64,488 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,t1.micro,Linux/UNIX,1,0.613 GiB,undefined,Variable,32-bit or 64-bit
+eu-west-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-northeast-2,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-west-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-2,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-northeast-2,d2.8xlarge,Linux/UNIX,36,244 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+us-west-2,p2.xlarge,Linux/UNIX,4,61 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-central-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-south-1,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+us-west-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+eu-west-1,m3.large,Linux/UNIX,2,7.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+sa-east-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-west-1,i3.2xlarge,Linux/UNIX,8,61 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,i2.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+eu-west-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+us-west-1,g2.2xlarge,Linux/UNIX,8,15 GiB,2.6 GHz,Intel Xeon E5-2670 (Sandy Bridge),64-bit
+ap-southeast-1,c4.8xlarge,Linux/UNIX,36,60 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-east-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+eu-central-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-south-1,m4.xlarge,Linux/UNIX,4,16 GiB,2.4  GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-2,m4.2xlarge,Linux/UNIX,8,32 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,m4.large,Linux/UNIX,2,8 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+us-west-1,m3.medium,Linux/UNIX,1,3.75 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-2,t2.2xlarge,Linux/UNIX,8,32 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+eu-west-1,m2.4xlarge,Linux/UNIX,8,68.4 GiB,undefined,Intel Xeon Family,64-bit
+eu-central-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+sa-east-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,c4.xlarge,Linux/UNIX,4,7.5 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-east-1,c1.medium,Linux/UNIX,2,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-1,c3.8xlarge,Linux/UNIX,32,60 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-south-1,c4.4xlarge,Linux/UNIX,16,30 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+us-west-2,m2.2xlarge,Linux/UNIX,4,34.2 GiB,undefined,Intel Xeon Family,64-bit
+us-west-1,r4.large,Linux/UNIX,2,15.25 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-south-1,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-east-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+sa-east-1,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+eu-central-1,m3.2xlarge,Linux/UNIX,8,30 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge),64-bit
+ap-northeast-1,c3.2xlarge,Linux/UNIX,8,15 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+eu-west-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-2,hi1.4xlarge,Linux/UNIX,16,60.5 GiB,2.4 GHz,Intel Xeon Family,64-bit
+us-east-1,r4.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,t2.micro,Linux/UNIX,1,1 GiB,Up to 3.3 GHz,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-2,d2.2xlarge,Linux/UNIX,8,61 GiB,2.4 GHz,Intel Xeon E5-2676v3 (Haswell),64-bit
+ap-northeast-1,x1.16xlarge,Linux/UNIX,64,976 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+ap-south-1,t2.xlarge,Linux/UNIX,4,16 GiB,Up to 3.0 GHz,Intel Xeon Family,64-bit
+ap-southeast-2,r4.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-southeast-1,c4.2xlarge,Linux/UNIX,8,15 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-southeast-1,x1.32xlarge,Linux/UNIX,128,1,952 Gib,2.3 GHz,High Frequency Intel Xeon E7-8880 v3 (Haswell),64-bit
+us-east-1,hs1.8xlarge,Linux/UNIX,17,117 GiB,2 GHz,Intel Xeon E5-2650,64-bit
+sa-east-1,c1.xlarge,Linux/UNIX,8,7 GiB,undefined,Intel Xeon Family,64-bit
+ap-southeast-1,c3.xlarge,Linux/UNIX,4,7.5 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),64-bit
+ap-southeast-2,m4.4xlarge,Linux/UNIX,16,64 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+sa-east-1,c3.large,Linux/UNIX,2,3.75 GiB,2.8 GHz,Intel Xeon E5-2680 v2 (Ivy Bridge),32-bit or 64-bit
+sa-east-1,i3.4xlarge,Linux/UNIX,16,122 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,i2.xlarge,Linux/UNIX,4,30.5 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+us-west-1,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+us-east-1,r3.4xlarge,Linux/UNIX,16,122 GiB,2.5 GHz,Intel Xeon E5-2670 v2 (Ivy Bridge),64-bit
+ap-northeast-1,r4.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+eu-west-1,p2.8xlarge,Linux/UNIX,32,488 GiB,undefined,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+ap-northeast-2,c4.large,Linux/UNIX,2,3.75 GiB,2.9 GHz,Intel Xeon E5-2666 v3 (Haswell),64-bit
+ap-northeast-2,i3.xlarge,Linux/UNIX,4,30.5 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
+us-west-2,m1.small,Linux/UNIX,1,1.7 GiB,undefined,Intel Xeon Family,32-bit or 64-bit
+ap-southeast-2,m4.10xlarge,Linux/UNIX,40,160 GiB,2.4 GHz,Intel Xeon E5-2676 v3 (Haswell),64-bit
+ap-south-1,i3.8xlarge,Linux/UNIX,32,244 GiB,2.3 GHz,Intel Xeon E5-2686 v4 (Broadwell),64-bit
