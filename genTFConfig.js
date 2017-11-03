@@ -28,7 +28,7 @@ var priceMap = {}
 
 instTypes.forEach(function(iType) {
     var runScript = exec('cat data/LinuxOnDemandPrices.csv | grep '+iType+' | grep '+region,
-        (error, stdout, stderr) => {
+        function (error, stdout, stderr) {
             var resp = `${stdout}`
             var fields = resp.split(',')
             var price
@@ -43,7 +43,7 @@ instTypes.forEach(function(iType) {
             }
         })
     var getVcpu = exec('cat data/LinuxInstanceSpecs.csv | grep '+iType+' | grep '+region,
-        (error, stdout, stderr) => {
+        function (error, stdout, stderr) {
             var resp = `${stdout}`
             console.log('resp:'+resp)
             var fields = resp.split(',')

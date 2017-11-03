@@ -144,7 +144,11 @@ Resources:
             - |
               #!/bin/bash
               yum -y install git
-              yum -y install nodejs npm --enablerepo=epel
+              rm -f /etc/yum.repos.d/nodesource-el*
+              yum clean all && yum update -y
+              curl --silent --location https://rpm.nodesource.com/setup_7.x | bash -
+              yum clean all && yum update -y
+              yum install -y nodejs
               wget https://redirector.gvt1.com/edgedl/go/go1.9.2.linux-amd64.tar.gz
               tar -C /usr/local -xzf go*.gz
               export PATH=$PATH:/usr/local/go/bin
