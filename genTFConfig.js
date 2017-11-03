@@ -118,7 +118,7 @@ function buildTerraFile() {
     fCont += '     aws_autoscaling_group_name = "${aws_autoscaling_group.autoscalr_test_ASG.name}" \n'
     fCont += '     display_name = "Fleet Benchmark" \n'
     fCont += '     scale_mode = "fixed" \n'
-    fCont += '     target_capacity = 1 \n'
+    fCont += '     target_capacity = '+targVcpu+' \n'
     fCont += '     instance_types = '+ JSON.stringify(instTypes) + ' \n'
     fCont += '     max_spot_percent_total = 100 \n'
     fCont += '     max_spot_percent_one_market = 100 \n'
@@ -134,17 +134,21 @@ function buildTerraFile() {
     fCont += ' } \n'
     fCont += ' resource "aws_spot_fleet_request" "spotFleet" { \n'
     fCont += '     iam_fleet_role      = "${aws_iam_role.fleet.arn}" \n'
-    fCont += '     spot_price          = "0.3" \n'
+    fCont += '     spot_price          = "0.5" \n'
     fCont += '     allocation_strategy = "diversified" \n'
-    fCont += '     target_capacity     = 1 \n'
+    fCont += '     target_capacity     = '+targVcpu+' \n'
     fCont += '     valid_until         = "2019-11-04T20:44:20Z" \n'
     fCont += '     terminate_instances_with_expiration = true \n'
     // create a launch specification for each instance type
     instTypes.forEach(function(iType) {
+        var spotBid = 0.001
+        if (vCpuMap[iType]) {
+            spotBid = priceMap[iType] / vCpuMap[iType]
+        }
         fCont += '     launch_specification { \n'
         fCont += '         instance_type     = "' + iType + '" \n'
         fCont += '         ami               = "' + testAMI + '" \n'
-        fCont += '         spot_price        = ' + priceMap[iType] + ' \n'
+        fCont += '         spot_price        = ' + spotBid + ' \n'
         fCont += '         weighted_capacity = ' + vCpuMap[iType] + ' \n'
         fCont += '         tags              = { \n'
         fCont += '             FleetManager = "SpotFleet" \n'
