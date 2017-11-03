@@ -138,6 +138,10 @@ Resources:
       IamInstanceProfile: !Ref AsrFBMgrInstProfile
       SecurityGroups:
         - !Ref 'MgrSecurityGroup'
+      Tags:
+        -
+          Key: Name
+          Value: AutoScalr-Fleet-Benchmark
       UserData:
         Fn::Base64:
           Fn::Sub:
@@ -161,6 +165,7 @@ Resources:
               echo export ASR_INST_TYPES=${InstanceTypes} >> /home/ec2-user/testRun.env
               echo export ASR_TEST_AMI=${TestAmi} >> /home/ec2-user/testRun.env
               echo export AWS_REGION=${AWS::Region} >> /home/ec2-user/testRun.env
+              echo source /home/ec2-user/testRun.env >> /home/ec2-user/.bashrc
               sudo -u ec2-user bash -c "cd;git clone https://github.com/autoscalr/fleet-cost-benchmark.git"
               sudo -u ec2-user bash -c "~/fleet-cost-benchmark/scripts/runBenchmark.sh > ~/runBenchmark.log 2> ~/runBenchmark.err"
             - {
