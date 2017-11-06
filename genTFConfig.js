@@ -15,6 +15,15 @@ var instTypeStr = process.env['ASR_INST_TYPES']
 if (instTypeStr) {
     instTypes = instTypeStr.split(',')
 }
+var availZonesStr = 'us-east-1a,us-east-1b,us-east-1c,us-east-1d,us-east-1e,us-east-1f'
+var availZonesEnvStr = process.env['ASR_AVAIL_ZONES']
+if (availZonesEnvStr) {
+    availZonesStr = availZonesEnvStr
+}
+var availZones = availZonesStr.split(',')
+
+
+
 var region = 'us-east-1'
 var regionEnv = process.env['AWS_REGION']
 if (regionEnv) {
@@ -100,7 +109,7 @@ function buildTerraFile() {
     fCont += '     } \n'
     fCont += ' } \n'
     fCont += ' resource "aws_autoscaling_group" "autoscalr_test_ASG" { \n'
-    fCont += '     availability_zones = ["us-east-1a", "us-east-1b","us-east-1c"] \n'
+    fCont += '     availability_zones = ' + JSON.stringify(availZones) + ' \n'
     fCont += '     name_prefix   = "test-asg-" \n'
     fCont += '     max_size = 10 \n'
     fCont += '     min_size = 0 \n'
