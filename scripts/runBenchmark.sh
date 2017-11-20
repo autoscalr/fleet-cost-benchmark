@@ -16,7 +16,7 @@ export TERRA_WKSP=~/terraform
 node ./genTFConfig.js
 cd ~/terraform
 /usr/local/bin/terraform init
-/usr/local/bin/terraform apply
+#/usr/local/bin/terraform apply
 # load aws-cost-analysis tools
 cd
 git clone https://github.com/concurrencylabs/aws-cost-analysis.git
